@@ -1,0 +1,4 @@
+.wp_themeSkin .mceIcon.mce_cite,
+.wp_themeSkin .mce_cite > .mceIcon {
+	background-image: none;
+}
